@@ -88,33 +88,8 @@ void deleteNode(int position,Node* &head){
     }
 }
 int main(){
-    /*Node* node1=new Node(10);
-    cout<<node1->data<<endl;
-    cout<<node1->next<<endl;
-    Node* head=node1;
-    printList(head);
-    insertAtHead(head,12);
-    printList(head);
-    Node* tail = node1;
-    insertAtTail(tail,20);
-    insertAtTail(tail,20);
-    printList(head);
-    insertAtPosition(tail,head,2,23);
-    printList(head);
-    insertAtPosition(tail,head,4,23);
-    printList(head);
-    insertAtPosition(tail,head,1,23);
-    printList(head);
-    cout<<endl;
-    cout<<(head)->data<<" ";
-    cout<<  (tail)->data<<endl;
-    deleteNode(2,head);
-    printList(head);*/
-    Node* node1=new Node(1);
-    Node* head =node1;
-    Node* tail= node1;
     
-
+    
    
 
 
